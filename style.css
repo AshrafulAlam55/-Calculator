@@ -1,0 +1,42 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+ text-align: center;
+
+}
+.crad{
+	max-width: 330px;
+	margin: 0 auto;
+	text-align: center;
+	box-shadow: 0 4px 8px 0 black;
+	font-size: 0;
+	margin-top: 10px;
+}
+.crad:hover{
+	box-shadow: 0 8px 16px 0 black;
+}
+
+.clcs_head #result{
+    width:318px;
+    height:70px;
+    font-size: 25px;
+    font-weight: bold;
+    padding:0 5px;
+    text-align: right;
+    letter-spacing: 2px;
+ }
+ .clcs_body .btn{
+  width: 82px;
+  height:60px;
+  background-color:black;
+  color: white;
+  font-weight: bolder;
+  font-size: 15px;
+  padding: 5px;
+ }
+   #btn_style{
+  	 
+  }
